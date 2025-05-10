@@ -3,10 +3,10 @@
 ## 📘 Asignatura: GitHub  
 **Grupo:** 07  
 **Integrantes:**
-- Nombre del integrante 1
-- Nombre del integrante 2
-- Nombre del integrante 3
-- Nombre del integrante 4
+- Luis
+- Guian Pierre
+- Jonas
+- Kattia
 
 ## 📌 Descripción del Proyecto
 
